@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\learnb_blazor_project.props" />
+</Project>

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\web-applications\\blazo-applications\\learnb_blazor_project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\learnb_blazor_project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\learnb_blazor_project.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\web-applications\\blazo-applications\\learnb_blazor_project\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\web-applications\\blazo-applications\\learnb_blazor_project\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\web-applications\\blazo-applications\\learnb_blazor_project\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\web-applications\\blazo-applications\\learnb_blazor_project\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.learnb_blazor_project.props",
+      "PackagePath": "build\\learnb_blazor_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.learnb_blazor_project.props",
+      "PackagePath": "buildMultiTargeting\\learnb_blazor_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.learnb_blazor_project.props",
+      "PackagePath": "buildTransitive\\learnb_blazor_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.learnb_blazor_project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
